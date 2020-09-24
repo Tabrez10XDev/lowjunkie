@@ -22,7 +22,7 @@ Hi, I'm Tabrez, a Polyglot Developer 🚀 from India, currently, I'm pursuing my
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning ML/DL and Kotlin; 
+- 🌱 I’m currently learning ML and Android Development; 
 - 📝[Resume](https://drive.google.com/file/d/1yxFHhVpsmE7zqJ2snzz945B-q9ybDKmo/view?usp=drivesdk)
 
 **Languages and Tools:**  
