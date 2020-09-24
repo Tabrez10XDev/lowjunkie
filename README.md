@@ -15,7 +15,7 @@
 
 <br />
 
-Hi, I'm Tabrez, a Polyglot Developer 🚀 from India, currently, I'm studying CSE degree
+Hi, I'm Tabrez, a Polyglot Developer 🚀 from India, currently, I'm pursuing my CSE degree
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
