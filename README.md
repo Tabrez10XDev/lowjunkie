@@ -10,6 +10,7 @@
 </a>
 
 
+![](https://visitor-badge.glitch.me/badge?page_id=lowjunkie.lowjunkie)
 
 
 <br />
@@ -37,7 +38,6 @@ Hi, I'm Tabrez, a Polyglot Developer 🚀 from India, currently, I'm studying CS
 
 
 
-```
 
 
 <details>
@@ -46,5 +46,4 @@ Hi, I'm Tabrez, a Polyglot Developer 🚀 from India, currently, I'm studying CS
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lowjunkie&show_icons=true&theme=gotham" alt="lowjunkie" />
 
 </details>
-
 
