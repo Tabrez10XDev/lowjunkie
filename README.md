@@ -15,13 +15,13 @@
 
 <br />
 
-Hi, I'm Tabrez,An Andrioi Developer 🚀 from India, currently, I'm pursuing my CSE degree
+Hi, I'm Tabrez, An App Developer 🚀 from Chennai, India. Aspiring engineer. 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning ML and Android Development; 
+- 🌱 I’m currently learning ML and App Development; 
 - 📝[Resume](https://drive.google.com/file/d/1L47otOE-dFGQu4hbo9dTCOiksP2Rd3Pz/view?usp=drivesdk)
 
 **Languages and Tools:**  
