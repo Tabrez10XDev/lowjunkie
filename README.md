@@ -21,8 +21,8 @@ Hi, I'm Tabrez, An App Developer 🚀 from Chennai, India. Aspiring engineer.
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning ML and App Development; 
-- 📝[Resume](https://drive.google.com/file/d/1nBxWAaOj7qhaGiD4Lz12WWfLrgAbqt3p/view?usp=drivesdk)
+- 🌱 I’m currently learning ML, Blockchain and App Development; 
+- 📝[Resume](https://drive.google.com/file/d/1aVDhezVSeMdCoNHWMwDi-LeI_Eg_YUR2/view?usp=sharing)
 
 **Languages and Tools:**  
 
